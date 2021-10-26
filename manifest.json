@@ -4,7 +4,7 @@
   "manifest_version": 2,
   "content_scripts": [
     {
-      "matches": ["*://gramfree.today/free*"],
+      "matches": ["*//m.facebook.com/friends/center/friends*"],
       "js": ["script.js"]
     }
   ]
