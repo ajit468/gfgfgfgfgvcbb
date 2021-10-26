@@ -1,7 +1,7 @@
 console.log("Auto roll extension is running...")
 
 setTimeout(() => {
-    document.getElementsByName('Time to Roll!').reload(true);
-    document.getElementById("roll-button").click()
+    document.getElementsByName('').reload(true);
+    document.getElementById("14").click()
   }, 6000
 )
